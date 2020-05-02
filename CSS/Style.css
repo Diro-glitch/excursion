@@ -15,6 +15,19 @@ h2 {
     font-family: Verdana, Geneva, sans-serif;
     font-size:42px;
     font-weight:300;
+    color: #ffffff;
+}
+
+h3 {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size:42px;
+    font-weight:300;
+    color: #ffffff;
+}
+
+p { font-family: Verdana, Geneva, sans-serif;
+    font-size: 21px;
+    color: gray;
 }
 
 .cta { font-family: Verdana, Geneva, sans-serif; 
